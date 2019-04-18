@@ -5,7 +5,7 @@ Data is [here](https://drive.google.com/open?id=1f2SrtotfBlWBrQIRRH-aM56cmJ2Tq9I
 ## Data explanation;
 ### **train_data.mat**
 1. train_data_amp: CSI amplitude of training data: 1116x52x192, 1116 CSI series, each series has 52 carriers, and 192 samples
-2. train_label_instance: action labels, 1116x192, 1116 CSI series, each series and 192 samples which are labeld from 0 to 6 (6 actions + background).
+2. train_label_instance: action labels, 1116x192, 1116 CSI series, each series and 192 samples which are labeld from 0 to 6 (background + 6 actions).
 3. train_label_mask: action labels, 1116x192, 1116 CSI series, each series and 192 samples which are binaryly labeled.
 4. train_label_time: start time and end time labels. 1116x2, 2 is for start and end.
 
