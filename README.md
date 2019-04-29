@@ -27,4 +27,10 @@ Temporal operations including 1d convolutions, 1D maxpoolings, and 1D deconvolut
 If this helps in your research, please kindly cite,  
 
 ```
+@article{wang2019temporal,
+  title={Temporal Unet: Sample Level Human Action Recognition using WiFi},
+  author={Wang, Fei and Song, Yunpeng and Zhang, Jimuyang and Han, Jinsong and Huang, Dong},
+  journal={arXiv preprint arXiv:1904.11953},
+  year={2019}
+}
 ```
